@@ -8,8 +8,8 @@ Welcome to the Sales and Financial Analytics Projects repository! This collectio
 - [Projects](#projects)
 - - [Sales Report](#sales-report)
 - - [Financial Report](#financial-report)
-- [Technical Skills]
-- [Soft Skills]
+- [Technical Skills](#technical-skills)
+- [Soft Skills](soft-skills)
 
 ## About
 
@@ -22,9 +22,7 @@ This repository is a collection of projects that showcase the power of Advanced 
 
 - **Project objective:** 
 
-    **1.** To create a _[customer performance report](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/Customer%20Performance%20Report.pdf)_ 
-
-    **2.** To conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **1.** To create a _[Customer Performance Report](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/Customer%20Performance%20Report.pdf)_ and to conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -38,13 +36,11 @@ This repository is a collection of projects that showcase the power of Advanced 
 
 - **Project objective:** 
 
-    **1.** To create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** To create Profit and Loss (P&L) reports by _[Markets](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+    **1.** To create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/P%26L%20Statement%20by%20Months.pdf)_ and to create Profit and Loss (P&L) reports by _[Markets](https://github.com/mrudulasakhare/Sales_Finance_Analytics_Projects/blob/main/P%26L%20Statement%20by%20Markets.pdf)_.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals and build confidence in the organization's financial outlook.
 
