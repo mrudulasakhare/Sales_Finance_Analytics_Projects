@@ -33,7 +33,7 @@ This repository is a collection of projects that showcase the power of Advanced 
 
 
 
-## Finance Report :
+### Finance Report :
 
 - **Project objective:** 
 
@@ -56,7 +56,7 @@ This repository is a collection of projects that showcase the power of Advanced 
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills:
+### Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
