@@ -8,8 +8,9 @@ Welcome to the Sales and Financial Analytics Projects repository! This collectio
 - [Projects](#projects)
 - - [Sales Report](#sales-report)
 - - [Financial Report](#financial-report)
-- [Technical Skills](#technical-skills)
-- [Soft Skills](soft-skills)
+- [Skills Gained](#skills-gained)    
+- - [Technical Skills](#technical-skills)
+- - [Soft Skills](soft-skills)
 
 ## About
 
